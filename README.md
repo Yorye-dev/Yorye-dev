@@ -6,8 +6,7 @@
 - 🦝
 - 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yorye-dev&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorye-devicons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorye-dev&show_icons=true&theme=gruvbox)<!---
 Yorye-dev/Yorye-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
