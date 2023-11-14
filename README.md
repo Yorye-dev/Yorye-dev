@@ -12,8 +12,13 @@ I'm passionate about computer science and backend development. I'm on a constant
 
 ### Quick Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yorye-dev&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorye-dev&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Yorye-dev&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yorye-dev&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
 
 ### Currently Up To:
 
